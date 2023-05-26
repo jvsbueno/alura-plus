@@ -42,7 +42,7 @@ body {
     text-decoration: none;
     display: block;
     margin-bottom: 16px;
-    
+
 }
 
 .principal-titulo{
@@ -58,4 +58,8 @@ body {
 
 .principal-imagem{
     margin: 16px 0 32px 0;
+}
+
+.principal-caixa{
+    margin: 0 96px;
 }
